@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneMachado&theme=tokyonight&show_icons=true" />
 
 
