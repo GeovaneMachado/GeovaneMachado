@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneMachado&theme=tokyonight" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeovaneMachado&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneMachado&theme=tokyonight&show_icons=true" />
+
 
 <!--
 **GeovaneMachado/GeovaneMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
