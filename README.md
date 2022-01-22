@@ -1,6 +1,7 @@
 ### Hi there 👋
-< 1F4C8>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeovaneMachado](https://github.com/anuraghazra/github-readme-stats)
 <hr>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneMachado&theme=tokyonight&show_icons=true" />
 
 
