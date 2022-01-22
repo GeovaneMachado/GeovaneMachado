@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+< 1F4C8>
 <hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneMachado&theme=tokyonight&show_icons=true" />
 
