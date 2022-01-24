@@ -1,10 +1,13 @@
 ### Hi there 👋
+Bem vindo, me chamo Geovane
 <hr>
+<br>Ciencias da computação - UFFS<br>
+ 
 <a href="https://github.com/GeovaneMachado/GeovaneMachado">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneMachado&theme=tokyonight&langs_count=3" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneMachado&theme=tokyonight&langs_count=3" />
 </a> 
 <a href="https://github.com/GeovaneMachado/GeovaneMachado">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeovaneMachado&show_icons=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=GeovaneMachado&show_icons=true&theme=tokyonight" />
  </a>  
 <!--
 **GeovaneMachado/GeovaneMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
