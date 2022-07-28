@@ -1,5 +1,5 @@
 ### Hi there 👋
-Bem vindo, me chamo Geovane
+Hello, my name is Geovane and i am science computer student at the federal university frontier south in Chapecó-SC
 <hr>
 <br>Ciencias da computação - UFFS<br>
  
