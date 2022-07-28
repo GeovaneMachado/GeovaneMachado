@@ -1,5 +1,7 @@
-### Hi there 👋
-Hello, my name is Geovane and i am science computer student at the federal university frontier south in Chapecó-SC
+# Wellcome to my GitHub profile<br>
+**My name is Geovane and i am science computer student at the federal university frontier south in Chapecó-SC
+I am 22 years old and currently work as a developer using php and javascript languagens**
+
 <hr>
 <br>Ciencias da computação - UFFS<br>
  
