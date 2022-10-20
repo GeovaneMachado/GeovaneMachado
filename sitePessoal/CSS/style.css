@@ -1,0 +1,25 @@
+#myPhoto{
+    width: 200px;
+    height: 200px;
+    max-height: 200px;
+}
+#iconWhats{
+    color: #25D366;
+}
+
+#iconFacebook{
+    color: #4267B2;
+}
+
+#iconInstagram{
+    color: #E1306C;
+}
+
+#iconLinkedin{
+    color: #0077B5;
+}
+
+.link{
+    margin: 10px;
+    text-decoration: none;
+}
