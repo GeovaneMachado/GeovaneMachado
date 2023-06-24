@@ -1,6 +1,7 @@
 # Wellcome to my GitHub profile<br>
 **My name is Geovane and i am science computer student at the federal university frontier south in Chapecó-SC
-I am 22 years old and currently work as a developer using php and javascript languagens**
+I am 22 years old and currently work as a developer using php and javascript languagens.
+This is my site:  <a href="https://geovanemachado.github.io/GeovaneMachado/" alt="_blank"> Geovane Machado </a>**
 
 <hr>
 <br>Ciencias da computação - UFFS<br>
@@ -11,6 +12,7 @@ I am 22 years old and currently work as a developer using php and javascript lan
 <a href="https://github.com/GeovaneMachado/GeovaneMachado">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=GeovaneMachado&show_icons=true&theme=tokyonight" />
  </a>  
+
 <!--
 **GeovaneMachado/GeovaneMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
